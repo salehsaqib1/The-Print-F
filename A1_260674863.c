@@ -15,9 +15,9 @@ int main (void)      //Main function to start the program. Void because no argum
 	printf(" 6\n");
 	printf("  0\n");
 	printf("   6\n");
-	printf("    7\n");
+	printf("    1\n");
 	printf("     4\n");
-	printf("      8\n");
+	printf("      1\n");
 	printf("       6\n");
 	printf("        3\n");
 	return 0;
